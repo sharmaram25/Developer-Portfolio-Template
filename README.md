@@ -19,18 +19,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
 [![Stars](https://img.shields.io/github/stars/ramsharma/dev-portfolio?style=for-the-badge)](https://github.com/ramsharma/dev-portfolio/stargazers)
 
----
-
-## 🚀 **Live Demo**
-
-<div align="center">
-
-### 🌐 **[View Live Portfolio →](https://dev-portfolio-temp.netlify.app)**
-
-*Experience the full interactive portfolio with 3D elements and smooth animations*
-
-</div>
-
 </div>
 
 ---
@@ -38,6 +26,12 @@
 ## 🎭 **Live Preview - See the Magic in Action!**
 
 <div align="center">
+
+### 🚀 **[View Live Demo](https://dev-portfolio-temp.netlify.app)** 🚀
+
+**Experience the portfolio in action: [https://dev-portfolio-temp.netlify.app](https://dev-portfolio-temp.netlify.app)**
+
+---
 
 ### 🏠 **Hero Section**
 *Immersive 3D background with floating geometries and smooth animations*
